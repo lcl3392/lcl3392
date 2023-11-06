@@ -3,6 +3,8 @@
 
 ![header](https://Hi, nice to meet you.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lcl3392=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **lcl3392/lcl3392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
