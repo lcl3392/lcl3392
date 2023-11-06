@@ -1,21 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20nice%20to%20meet%20you&fontSize=80)
 
+### 안녕하세요 개발자를 꿈꾸고 있는 이초롱 입니다. 
 
-![header](https://Hi, nice to meet you.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+## Studying
+- Tech Stack : HTML CSS  styled components JavaScript  React  Redux
+- DevOps :  Git  GitHub
+- RDBMS :  MongoDB MariaDB
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lcl3392=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**lcl3392/lcl3392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcl3392&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcl3392&hide=stars&show_icons=true)
