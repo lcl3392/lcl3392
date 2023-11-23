@@ -3,7 +3,7 @@
 ### 안녕하세요 프런트엔드 개발자를 꿈꾸고 있는 이초롱 입니다. 
 
 ## Studying
-- Tech Stack : HTML CSS  styled components JavaScript  React  Redux Node.js
+- Tech Stack : HTML CSS  styled components JavaScript  React  Redux Node.js Spring
 - DevOps :  Git  GitHub
 - RDBMS :  MongoDB MariaDB
 
